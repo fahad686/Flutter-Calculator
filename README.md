@@ -17,4 +17,5 @@ https://pub.dev/packages/math_expressions
 
  
   ##Dark Theme
-  ![Screenshot_1680505457](https://user-images.githubusercontent.com/56191939/229439484-ec1ca8bb-0843-4913-8032-a1d975f8086f.png)
+ 
+![Screenshot_1680505526](https://user-images.githubusercontent.com/56191939/229440731-c38fa2a6-3b9f-4c93-a9e0-98617dad41a7.png)

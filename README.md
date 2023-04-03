@@ -1,16 +1,20 @@
 # flutter_calculator
 
-A new Flutter project.
+I created simple calculator which we calculate values and apply arithmetic functions.
+And also included dark and light themes.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+I used dart package for calculting values are as following.
+https://pub.dev/packages/math_expressions
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Project Screenshot
+ 
+ ##Light Theme
+ ![Screenshot_1680505457](https://user-images.githubusercontent.com/56191939/229439371-896df179-24ed-4bf8-9e35-3a99a9fcb835.png)
+
+ 
+  ##Dark Theme
+  ![Screenshot_1680505457](https://user-images.githubusercontent.com/56191939/229439484-ec1ca8bb-0843-4913-8032-a1d975f8086f.png)
